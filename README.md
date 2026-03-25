@@ -36,4 +36,4 @@ Documentos necessários: Comprovantes
 Urgência: Alta  
 
 ## Demonstração
-O projeto inclui vídeo demonstrando o funcionamento do chatbot.
+O projeto inclui vídeo demonstrando o código do chatbot.
