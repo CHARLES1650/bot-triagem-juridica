@@ -37,3 +37,9 @@ Urgência: Alta
 
 ## Demonstração
 O projeto inclui vídeo demonstrando o código do chatbot.
+link do video no Youtube:
+https://youtu.be/aaDA-r0FcrM
+
+
+
+
